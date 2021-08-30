@@ -10,7 +10,7 @@ ___________________
 ___________________
 1. Clone Repository
    ```sh
-   git clone https://github.com/inenarratys/CacheCleaner.git
+   git clone https://github.com/inenarratus/CacheCleaner.git
    ```
 2. Go to File
    ```sh
