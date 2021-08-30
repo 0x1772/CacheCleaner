@@ -64,12 +64,12 @@ sudo updatedb
 
 
 echo ''
-echo '====== rmshit ====='
+echo '====== Cleaner ====='
 echo ''
-if [  -f rmshit.py ]; then
-   python rmshit.py 
+if [  -f cleaner.py ]; then
+   python cleaner.py 
 else
-echo "rmshit.py not found!"
+echo "cleaner.py not found!"
 echo 'Downloading....'
 echo "Python File Found"
 echo "Cleaner working..."
